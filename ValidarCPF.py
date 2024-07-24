@@ -1,6 +1,14 @@
 """
 
-Sistema de Validação de CPF
+Universidade Federal do Rio Grande - FURG
+
+Nome: Luis Guilherme Souto Miranda
+Curso: Matemática Aplicada
+Matrícula: 168516
+
+e-mail: luis.miranda10@icloud.com
+
+Nome do programa: Sistema de Validação de CPF
 
 """
 
